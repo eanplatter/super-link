@@ -1,0 +1,11 @@
+{
+  "name": "super-link",
+  "version": "0.0.1",
+  "description": "A link component for react router which toggles between anchors and Links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
