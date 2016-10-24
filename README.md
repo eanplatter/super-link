@@ -1,2 +1,2 @@
 # SuperLink [WIP]
-A React Router link component that toggles between external and internal urls.
+A React Router link component that toggles between external and internal urls
